@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me Discord Abdul#5228
+- 📫 How to reach me email: abdul_ww@outlook.com
 
 <!---
 Abddull/Abddull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
